@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Service Implementation",
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ServiceBusTrigger", "ServiceBusTrigger\ServiceBusTrigger.fsproj", "{36590D2A-A0EA-45F8-9B02-EDA5BEFFB395}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ServiceBusTriggerClient", "ServiceBusTriggerClient\ServiceBusTriggerClient.fsproj", "{2CDE5558-8811-4A75-A1EA-FDBDA9C9BB57}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ServiceBusTrigger.Client", "ServiceBusTrigger.Client\ServiceBusTrigger.Client.fsproj", "{2CDE5558-8811-4A75-A1EA-FDBDA9C9BB57}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ServiceBusTrigger.Common", "ServiceBusTrigger.Common\ServiceBusTrigger.Common.fsproj", "{A6457D69-EDE6-4409-A231-883B78C9E2D8}"
 EndProject

@@ -7,12 +7,12 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>2cde5558-8811-4a75-a1ea-fdbda9c9bb57</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ServiceBusTriggerClient</RootNamespace>
-    <AssemblyName>ServiceBusTriggerClient</AssemblyName>
+    <RootNamespace>ServiceBusTrigger.Client</RootNamespace>
+    <AssemblyName>ServiceBusTrigger.Client</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFSharpCoreVersion>4.4.0.0</TargetFSharpCoreVersion>
-    <Name>ServiceBusTriggerClient</Name>
+    <Name>ServiceBusTrigger.Client</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -23,7 +23,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Debug\ServiceBusTriggerClient.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\ServiceBusTrigger.Client.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -34,7 +34,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Release\ServiceBusTriggerClient.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\ServiceBusTrigger.Client.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>

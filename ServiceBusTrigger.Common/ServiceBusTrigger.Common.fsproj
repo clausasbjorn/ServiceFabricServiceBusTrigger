@@ -50,11 +50,11 @@
   </Choose>
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>
+    <Compile Include="Messages\ImportantMessage.fs" />
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Queueing.fs" />
     <Compile Include="QueueListener.fs" />
     <Content Include="packages.config" />
-    <Compile Include="Messages\ImportantMessage.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.ServiceBus">
